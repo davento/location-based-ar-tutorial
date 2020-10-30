@@ -1,0 +1,10 @@
+<a-marker preset="hiro" material="" arjs-hit-testing="">
+        
+        <a-entity position="" scale="0.7 0.7 0.7" gltf-model="assets/amarrar_las_estrellas.glb"></a-entity>
+        <a-image src="images/amarrar_estrella/0.png" rotate="90 0 0" position="-0.14964 -1.85991 -0.32767" scale="3.02285 1.90736 2" material="" geometry="" rotation="-79.318 0.991 3.875"></a-image>
+        <a-image src="images/amarrar_estrella/1.png" rotate="90 0 0" position="0.11506 -0.47882 -1.00988" scale="2 2 3.11432" material="" geometry="" rotation="-67.492 4.299 3.117"></a-image>
+        <a-image src="images/amarrar_estrella/2.png" rotate="90 0 0" position="0.25655 1.23438 -1.00569" scale="1.00636 0.93385 2.36031" material="" geometry="" rotation="-70.46120372959838 4.379116428184882 -4.355625158584519"></a-image>
+        <a-image src="images/amarrar_estrella/3.png" rotate="90 0 0" position="0.59268 1.64607 -0.90934" scale="1.19001 1.1741 2" material="" geometry="" rotation="-83.198 0.01 0.01"></a-image>
+        <a-image src="images/amarrar_estrella/4.png" rotate="90 0 0" position="0 3.86708 0.67781" scale="1.99963 2 2" material="" geometry=""></a-image>
+        <a-image src="images/amarrar_estrella/5.png" rotate="90 0 0" position="0.84638 2.96372 -1.03699" scale="1.37194 1.74079 2.01589" material="" geometry="" rotation="-98.234 0.01 0.01"></a-image>
+      </a-marker>
