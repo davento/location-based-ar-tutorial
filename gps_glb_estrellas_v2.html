@@ -13,15 +13,15 @@
     <a-scene 
         vr-mode-ui="enabled: false"
 		    embedded
-		    arjs='sourceType: webcam; debugUIEnabled: false;'>
+		    arjs='sourceType: webcam; debugUIEnabled: false; videoTexture: true;'>
               
-        <a-entity position="" scale="5 5 5" rotation="90 0 0" gltf-model="assets/amarrar_las_estrellas_capas.glb" 
-        gps-entity-place="latitude: 44.506477; longitude: 11.301524;"
+        <a-entity position="" scale="15 15 15" rotation="90 0 0" gltf-model="assets/amarrar_las_estrellas_capas.glb" 
+        gps-entity-place="latitude: -12.026856; longitude: -77.065492;"
         ></a-entity>
   
         <a-camera
         rotation-reader
-        gps-camera="simulateLatitude: 44.50437; simulateLongitude: 11.30106; gpsMinDistance: 8;"
+        gps-camera="simulateLatitude: 0; simulateLongitude: 0; gpsMinDistance: 20;"
             >
         </a-camera>
     </a-scene>
